@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    background-color: #1C2B35;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 140px;
+    height: 80px;
+    line-height: 20.4px;
+}
+.navigation a{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 32px;
+    letter-spacing: 0.005em;
+}
