@@ -6,8 +6,9 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
-    margin: 208px 111px;
+    margin: 60px 100px;
 }
-.cart-summery{
+.cart-summery {
     background: #FFE0B3;
+    padding: 25px;
 }
