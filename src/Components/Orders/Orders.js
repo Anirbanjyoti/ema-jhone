@@ -6,6 +6,7 @@ const Orders = () => {
     return (
         <div>
             <h1>This is Order page : {products.length}</h1>
+            
         </div>
     );
 };
