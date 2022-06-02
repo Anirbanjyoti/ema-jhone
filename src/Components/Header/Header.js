@@ -12,9 +12,6 @@ const Header = () => {
                 <Link to='/Orders'>Orders</Link>
                 <Link to='/Inventory'>Inventory</Link>
                 <Link to='/About'>About</Link>
-                {/* <a href="/order">Order</a>
-                <a href="/inventory">Inventory</a>
-                <a href="/about">Login</a> */}
             </div>
         </nav>
     );
